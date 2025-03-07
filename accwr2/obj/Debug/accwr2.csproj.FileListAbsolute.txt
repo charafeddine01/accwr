@@ -1,0 +1,119 @@
+C:\Users\it-2\source\repos\accwr2\accwr2\bin\Debug\accwr2.exe.config
+C:\Users\it-2\source\repos\accwr2\accwr2\bin\Debug\accwr2.exe
+C:\Users\it-2\source\repos\accwr2\accwr2\bin\Debug\accwr2.pdb
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.csproj.AssemblyReference.cache
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.Properties.Resources.resources
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.csproj.GenerateResource.cache
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.csproj.CoreCompileInputs.cache
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.exe
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.pdb
+C:\Users\it-2\source\repos\accwr2\accwr2\obj\Debug\accwr2.Form1.resources
+G:\dhh\accwr2\accwr2\bin\Debug\accwr2.exe.config
+G:\dhh\accwr2\accwr2\bin\Debug\accwr2.exe
+G:\dhh\accwr2\accwr2\bin\Debug\accwr2.pdb
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.csproj.AssemblyReference.cache
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.Form1.resources
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.Properties.Resources.resources
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.csproj.GenerateResource.cache
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.csproj.CoreCompileInputs.cache
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.exe
+G:\dhh\accwr2\accwr2\obj\Debug\accwr2.pdb
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\accwr2.exe.config
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\accwr2.exe.manifest
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\accwr2.application
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\accwr2.exe
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\accwr2.pdb
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\Google.Protobuf.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\MySql.Data.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Buffers.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Memory.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\ZstdSharp.dll
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\Google.Protobuf.pdb
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\Google.Protobuf.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\MySql.Data.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Buffers.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Memory.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.csproj.AssemblyReference.cache
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.exe.config
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.Form1.resources
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.Properties.Resources.resources
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.csproj.GenerateResource.cache
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.csproj.CoreCompileInputs.cache
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.exe.manifest
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.application
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.csproj.Up2Date
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.exe
+C:\Users\Abbas\OneDrive\Documenti\VS Projects\accwr2\accwr2\obj\Debug\accwr2.pdb
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\accwr2.exe.config
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\accwr2.exe.manifest
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\accwr2.application
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\accwr2.exe
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\accwr2.pdb
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\Google.Protobuf.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\MySql.Data.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Buffers.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Memory.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\ZstdSharp.dll
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\Google.Protobuf.pdb
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\Google.Protobuf.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\MySql.Data.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Buffers.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Memory.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.csproj.AssemblyReference.cache
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.exe.config
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.Form1.resources
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.Properties.Resources.resources
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.csproj.GenerateResource.cache
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.csproj.CoreCompileInputs.cache
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.exe.manifest
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.application
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.csproj.Up2Date
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.exe
+C:\Users\HDK_MEDIA\source\repos\charafeddine01\accwr\accwr2\obj\Debug\accwr2.pdb
